@@ -15,5 +15,6 @@ There are mostly 4 type of tokenizer used in NLP
   2. Byte pair Encoding(BPE) tokenizer
   3. word leve tokenzier
   4. sentence level tokenizer
+
 In this repo i am going talk about first 3 tokenizer i.e character,BPE, word because sentence level tokenizer is not used mostly.
 
