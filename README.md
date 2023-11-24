@@ -21,3 +21,5 @@ In this repo i am going talk about first 3 tokenizer i.e character,BPE, word bec
 # 1. Character level tokenizer 
 In this section i am going to implement a simple tokenizer which is character level tokenizer and i will write custome code for this implement 
 and also train our tokenizer using custome code , huggingface and sentenicepiece . so lets start and also you can go through the notebook attached to this repo
+<br><br>
+        <a href='https://github.com/hackdavid/Tokenizer/tree/main/character_level'>character_level implementation and explation </a>
